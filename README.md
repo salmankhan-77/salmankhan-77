@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
 <h3 align="center">A passionate frontend developer | Cyber Security Researcher | Penetration Tester</h3>
 
-<img align="right" alt="Coding" width="600" hight="600" src="https://i.pinimg.com/736x/ce/98/9c/ce989c0dd688b3b99a31400129d2d211.jpg">
+<img align="right" alt="Coding" width="400" hight="400" src="https://i.pinimg.com/736x/ce/98/9c/ce989c0dd688b3b99a31400129d2d211.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhan-77&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhan-77" /> </p>
 
